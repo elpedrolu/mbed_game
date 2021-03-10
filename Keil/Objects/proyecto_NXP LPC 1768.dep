@@ -1,0 +1,144 @@
+Dependencies for Project 'proyecto', Target 'NXP LPC 1768': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\main.c)(0x604906EE)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork --split_sections -I ..\P6_3 -I .-I.\RTE\Device\LPC1768-I.\RTE\_NXP_LPC_1768-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver"-D__UVISION_VERSION="533" -D_RTE_ -DLPC175x_6x -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (osObjects.h)(0x5FA6ABF9)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5C8A86EC)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x5E8E9122)
+I (perifericos.h)(0x604913A4)
+I (lcd.h)(0x60491ABC)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\GPIO_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\PIN_LPC17xx.h)(0x5D5BE3CA)
+I (D:\Keil\ARM\ARMCC\include\stdbool.h)(0x5E8E9122)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include\Driver_SPI.h)(0x5E8F339A)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include\Driver_Common.h)(0x5C8A86EC)
+F (.\Thread.c)(0x60491AD2)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork --split_sections -I ..\P6_3 -I .-I.\RTE\Device\LPC1768-I.\RTE\_NXP_LPC_1768-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver"-D__UVISION_VERSION="533" -D_RTE_ -DLPC175x_6x -D_RTE_-o .\objects\thread.o --omf_browse .\objects\thread.crf --depend .\objects\thread.d)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5C8A86EC)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x5E8E9122)
+I (perifericos.h)(0x604913A4)
+I (lcd.h)(0x60491ABC)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\GPIO_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\PIN_LPC17xx.h)(0x5D5BE3CA)
+I (D:\Keil\ARM\ARMCC\include\stdbool.h)(0x5E8E9122)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include\Driver_SPI.h)(0x5E8F339A)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include\Driver_Common.h)(0x5C8A86EC)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x5E8E9122)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x5E8E9122)
+F (.\perifericos.h)(0x604913A4)()
+F (.\Arial12x12.h)(0x5F96BD6A)()
+F (.\lcd.c)(0x60491ABC)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork --split_sections -I ..\P6_3 -I .-I.\RTE\Device\LPC1768-I.\RTE\_NXP_LPC_1768-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver"-D__UVISION_VERSION="533" -D_RTE_ -DLPC175x_6x -D_RTE_-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (lcd.h)(0x60491ABC)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\GPIO_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F3392)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\PIN_LPC17xx.h)(0x5D5BE3CA)
+I (D:\Keil\ARM\ARMCC\include\stdbool.h)(0x5E8E9122)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include\Driver_SPI.h)(0x5E8F339A)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include\Driver_Common.h)(0x5C8A86EC)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x5E8E9122)
+I (Arial12x12.h)(0x5F96BD6A)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x5E8E9122)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x5E8E9122)
+F (.\lcd.h)(0x60491ABC)()
+F (.\perifericos.c)(0x604913A4)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork --split_sections -I ..\P6_3 -I .-I.\RTE\Device\LPC1768-I.\RTE\_NXP_LPC_1768-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver"-D__UVISION_VERSION="533" -D_RTE_ -DLPC175x_6x -D_RTE_-o .\objects\perifericos.o --omf_browse .\objects\perifericos.crf --depend .\objects\perifericos.d)
+I (perifericos.h)(0x604913A4)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F3392)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\GPIO_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\PIN_LPC17xx.h)(0x5D5BE3CA)
+I (D:\Keil\ARM\ARMCC\include\stdbool.h)(0x5E8E9122)
+F (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM3.lib)(0x5E8F339A)()
+F (RTE\CMSIS\RTX_Conf_CM.c)(0x5FD21B91)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork --split_sections -I .-I.\RTE\Device\LPC1768-I.\RTE\_NXP_LPC_1768-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver"-D__UVISION_VERSION="533" -D_RTE_ -DLPC175x_6x -D_RTE_-o .\objects\rtx_conf_cm.o --omf_browse .\objects\rtx_conf_cm.crf --depend .\objects\rtx_conf_cm.d)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5C8A86EC)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x5E8E9122)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC\RTX_CM_lib.h)(0x5E83693C)
+F (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\SSP_LPC17xx.c)(0x5D5BE3CA)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork --split_sections -I .-I.\RTE\Device\LPC1768-I.\RTE\_NXP_LPC_1768-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver"-D__UVISION_VERSION="533" -D_RTE_ -DLPC175x_6x -D_RTE_-o .\objects\ssp_lpc17xx.o --omf_browse .\objects\ssp_lpc17xx.crf --depend .\objects\ssp_lpc17xx.d)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x5E8E9122)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\SSP_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F3392)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\PIN_LPC17xx.h)(0x5D5BE3CA)
+I (D:\Keil\ARM\ARMCC\include\stdbool.h)(0x5E8E9122)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include\Driver_SPI.h)(0x5E8F339A)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include\Driver_Common.h)(0x5C8A86EC)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x5E8E9122)
+I (.\RTE\Device\LPC1768\RTE_Device.h)(0x5FD2095D)
+I (.\RTE\_NXP_LPC_1768\RTE_Components.h)(0x60490C89)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\GPIO_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\GPDMA_LPC17xx.h)(0x5D5BE3CA)
+F (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\GPDMA_LPC17xx.c)(0x5D5BE3CA)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork --split_sections -I .-I.\RTE\Device\LPC1768-I.\RTE\_NXP_LPC_1768-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver"-D__UVISION_VERSION="533" -D_RTE_ -DLPC175x_6x -D_RTE_-o .\objects\gpdma_lpc17xx.o --omf_browse .\objects\gpdma_lpc17xx.crf --depend .\objects\gpdma_lpc17xx.d)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\GPDMA_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F3392)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)
+F (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\GPIO_LPC17xx.c)(0x5D5BE3CA)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork --split_sections -I .-I.\RTE\Device\LPC1768-I.\RTE\_NXP_LPC_1768-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver"-D__UVISION_VERSION="533" -D_RTE_ -DLPC175x_6x -D_RTE_-o .\objects\gpio_lpc17xx.o --omf_browse .\objects\gpio_lpc17xx.crf --depend .\objects\gpio_lpc17xx.d)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\GPIO_LPC17xx.h)(0x5D5BE3CA)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F3392)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)
+F (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\PIN_LPC17xx.c)(0x5D5BE3CA)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork --split_sections -I .-I.\RTE\Device\LPC1768-I.\RTE\_NXP_LPC_1768-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver"-D__UVISION_VERSION="533" -D_RTE_ -DLPC175x_6x -D_RTE_-o .\objects\pin_lpc17xx.o --omf_browse .\objects\pin_lpc17xx.crf --depend .\objects\pin_lpc17xx.d)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F3392)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver\PIN_LPC17xx.h)(0x5D5BE3CA)
+I (D:\Keil\ARM\ARMCC\include\stdbool.h)(0x5E8E9122)
+F (RTE\Device\LPC1768\RTE_Device.h)(0x5FD2095D)()
+F (RTE\Device\LPC1768\startup_LPC17xx.s)(0x58493182)(--cpu Cortex-M3 --pd "__RTX SETA 1" -g --apcs=interwork -I.\RTE\Device\LPC1768-I.\RTE\_NXP_LPC_1768-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver"--pd "__UVISION_VERSION SETA 533" --pd "_RTE_ SETA 1" --pd "LPC175x_6x SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_lpc17xx.lst --xref -o .\objects\startup_lpc17xx.o --depend .\objects\startup_lpc17xx.d)
+F (RTE\Device\LPC1768\system_LPC17xx.c)(0x5FAC70E3)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork --split_sections -I .-I.\RTE\Device\LPC1768-I.\RTE\_NXP_LPC_1768-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Driver\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include"-I"C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\RTE_Driver"-D__UVISION_VERSION="533" -D_RTE_ -DLPC175x_6x -D_RTE_-o .\objects\system_lpc17xx.o --omf_browse .\objects\system_lpc17xx.crf --depend .\objects\system_lpc17xx.d)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x5E8E9122)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.h)(0x58493F92)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E836932)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F3392)
+I (C:\Users\Pedro Luis\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h)(0x58493F92)
